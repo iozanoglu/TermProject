@@ -1,4 +1,5 @@
 Mehmet Duruk ve İbrahim Ozanoğlu sunar
+
 Merhaba İleri Programlama Teknikleri dersi kapsamında yapmamız gereken projenin konusu Veri Sıkıştırma ve bu konu alt başlığı olarak ta Görüntü Sıkıştırma konusunu ele alıyoruz.
 
 Haftalık Program 
