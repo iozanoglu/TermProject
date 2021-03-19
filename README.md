@@ -13,5 +13,4 @@ PERŞEMBE : Proje kodlarının gözden geçirilmesi (Takım arkadaşlarımızın
 
 CUMA : Toplantı (Hafta içerisinde yapılan işlemlerin özet geçilmesi ve gelecek hafta yapılacak işlemlerin belirlenmesi).
 
-Haftalık Toplantı Tekrarları : https://www.youtube.com/playlist?list=PLxph1n5iaZddqQJItw8iwGxcV8Ysmcvjh 
-
+Haftalık Toplantı Tekrarları : https://www.youtube.com/playlist?list=PLfudfJHyG3BKTrEDXs72-UaYg23ZdjusP
